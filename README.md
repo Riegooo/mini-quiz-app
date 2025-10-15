@@ -22,7 +22,7 @@ Make sure you have:
 
 ## 🚀 How to Run
 
-Follow these steps to run the quiz:
+Clone the repository and run the following commands:
 
 1. **Clone this repository:**
    ```bash
