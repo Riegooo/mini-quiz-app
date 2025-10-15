@@ -24,12 +24,11 @@ Make sure you have:
 
 Clone the repository and run the following commands:
 
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/Riegooo/mini-quiz-app.git
-   cd mini-quiz-app/quiz-app
-   npm install
-   ```
+```bash
+git clone https://github.com/Riegooo/mini-quiz-app.git
+cd mini-quiz-app/quiz-app
+npm install
+```
 
 Run the following commands to start the game:
 ```bash
