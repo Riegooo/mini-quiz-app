@@ -11,15 +11,6 @@ It’s a fun and educational project to practice problem-solving and logic build
 
 ---
 
-## ✨ Features
-- Console-based quiz system  
-- Multiple-choice questions  
-- Score tracking  
-- Input validation (prevents empty answers)  
-- Easily add more questions  
-
----
-
 ## ⚙️ Requirements
 Make sure you have:
 - [Node.js](https://nodejs.org/) installed on your system
