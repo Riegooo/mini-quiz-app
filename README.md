@@ -4,8 +4,7 @@ A simple **console-based quiz application** built using **Node.js**.
 Users can answer multiple-choice questions directly in the terminal.  
 
 This project was created as part of my **JavaScript learning challenge and exercise**,  
-aimed at improving my understanding of core JavaScript concepts such as  
-loops, conditionals, arrays, user input handling, and modular code structure.  
+aimed at improving my understanding of core JavaScript concepts.
 
 It’s a fun and educational project to practice problem-solving and logic building using pure JavaScript!
 
